@@ -1,7 +1,7 @@
 object FDMustacheTest: TFDMustacheTest
-  Left = 299
+  Left = 301
   Height = 271
-  Top = 113
+  Top = 118
   Width = 517
   Caption = 'dmustache test'
   ClientHeight = 271
